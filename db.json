@@ -1,0 +1,34 @@
+{
+    "albums": [
+        {
+            "id": 1,
+            "title": "nevermind",
+            "band": "nirvana",
+            "release": 1991
+        },
+        {
+            "id": 2,
+            "title": "morning glory",
+            "band": "oasis",
+            "release": 1995
+        },
+        {
+            "id": 3,
+            "title": "parklife",
+            "band": "blur",
+            "release": 1994
+        },
+        {
+            "id": 4,
+            "title": "load",
+            "band": "metallica",
+            "release": 1996
+        },
+        {
+            "id": 5,
+            "title": "californication",
+            "band": "red hot chilly peppers",
+            "release": 1999
+        }
+    ]
+}
