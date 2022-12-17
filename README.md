@@ -1,0 +1,2 @@
+# albums
+mock album api
