@@ -29,6 +29,12 @@
             "title": "californication",
             "band": "red hot chilly peppers",
             "release": 1999
+        },
+        {
+            "id":6,
+            "title": "mezzanine",
+            "band": "massive attack",
+            "release":1998
         }
     ]
 }
